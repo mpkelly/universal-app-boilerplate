@@ -1,0 +1,3 @@
+rootProject.name = 'UniversalAppMobile'
+
+include ':app'
