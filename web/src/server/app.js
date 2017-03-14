@@ -11,12 +11,12 @@ const hooks = require('feathers-hooks');
 const rest = require('feathers-rest');
 const bodyParser = require('body-parser');
 const socketio = require('feathers-socketio');
-const middleware = require('./middleware');
+const middleware = require('./middleware/index');
 const services = require('./services');
 
 const app = feathers();
 
-app.configure(configuration(path.join(__dirname, '..')));
+app.configure(configuration(path.join(__dirname, '../..')));
 
 app.use(compress())
   .options('*', cors())

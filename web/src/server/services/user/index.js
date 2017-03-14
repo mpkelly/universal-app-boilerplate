@@ -2,7 +2,7 @@
 
 const service = require('feathers-mongoose');
 const user = require('./user-model');
-const hooks = require('./hooks');
+const hooks = require('./hooks/index');
 
 module.exports = function() {
   const app = this;
