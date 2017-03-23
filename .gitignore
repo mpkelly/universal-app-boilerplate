@@ -1,1 +1,12 @@
 node_modules
+.idea
+
+web/public/bundle.js.map
+
+web/public/bundle.js
+
+web/public/static-style.css.map
+
+web/public/static-style.css
+
+web/public/bundle.js
