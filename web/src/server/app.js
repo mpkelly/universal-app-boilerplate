@@ -1,6 +1,7 @@
 'use strict';
 const path = require('path');
 const fs = require('fs');
+const helmet = require('helmet');
 const https = require('https');
 const serveStatic = require('feathers').static;
 const favicon = require('serve-favicon');
@@ -28,6 +29,7 @@ app.configure(configuration(path.join(__dirname, '../..')));
 app.use(compress())
   .options('*', cors())
   .use(cors())
+  .use(helmet())
   .use(favicon( path.join(app.get('public'), 'favicon.ico') ))
   .use('/', serveStatic( app.get('public') ))
   .use(bodyParser.json())
