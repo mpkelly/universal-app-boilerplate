@@ -1,0 +1,28 @@
+{
+  "name": "global-packages",
+  "version": "1.0.0",
+  "description": "global packages for universal app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node mobile/node_modules/react-native/local-cli/cli.js start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpkelly/universal-app-boilerplate.git"
+  },
+  "author": "",
+  "license": "private",
+  "bugs": {
+    "url": "https://github.com/mpkelly/universal-app-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mpkelly/universal-app-boilerplate#readme",
+  "dependencies": {
+    "color": "^1.0.3",
+    "react-styles": "git@github.com:mpkelly/react-styles.git"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-es2015": "^6.24.0"
+  }
+}

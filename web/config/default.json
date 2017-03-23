@@ -1,8 +1,9 @@
 {
   "host": "localhost",
-  "port": 3030,
+  "port": 8082,
   "mongodb": "mongodb://localhost:27017/universalAppBoilerplate",
   "public": "../public/",
+  "stuff": "meg",
   "auth": {
     "token": {
       "secret": "VASpLIeLJCcNUWJx5KK1dnI3sO8Z9W3NX+xj9rSw3WZOQxqcm19l3UdR8k07p6GEovzjhPmBbX0QiKp2WgL/9w=="

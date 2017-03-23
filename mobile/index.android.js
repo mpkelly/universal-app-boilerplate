@@ -3,7 +3,8 @@
  * https://github.com/facebook/react-native
  * @flow
  */
-
+import {example} from "../shared/src/delete_this_example";
+import {Base} from "react-styles";
 import React, { Component } from 'react';
 import {
   AppRegistry,
@@ -14,6 +15,9 @@ import {
 
 export default class UniversalAppMobile extends Component {
   render() {
+    console.log("Imports are working: ");
+    console.log(Base);
+    console.log(example);
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>

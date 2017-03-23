@@ -1,6 +1,7 @@
 'use strict';
-
 const path = require('path');
+const fs = require('fs');
+const https = require('https');
 const serveStatic = require('feathers').static;
 const favicon = require('serve-favicon');
 const compress = require('compression');
@@ -15,6 +16,12 @@ const middleware = require('./middleware/index');
 const services = require('./services');
 
 const app = feathers();
+
+const config = {
+  key: fs.readFileSync('ssl/server.key'),
+  cert: fs.readFileSync('ssl/server.crt'),
+  passphrase: 'testkey'
+};
 
 app.configure(configuration(path.join(__dirname, '../..')));
 
@@ -31,4 +38,7 @@ app.use(compress())
   .configure(services)
   .configure(middleware);
 
-module.exports = app;
+const server = https.createServer(config, app).listen(app.get('port'));
+app.setup(server);
+
+module.exports = {app, server};
