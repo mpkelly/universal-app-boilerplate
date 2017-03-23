@@ -2,66 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44427c33-fba6-4096-ae14-43ce547c2995" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mobile/start.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shared/src/delete_this_example.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ssl/server.crt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ssl/server.key" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/.babelrc" afterPath="$PROJECT_DIR$/mobile/.babelrc" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/.buckconfig" afterPath="$PROJECT_DIR$/mobile/.buckconfig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/.flowconfig" afterPath="$PROJECT_DIR$/mobile/.flowconfig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/.gitattributes" afterPath="$PROJECT_DIR$/mobile/.gitattributes" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/.gitignore" afterPath="$PROJECT_DIR$/mobile/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/.watchmanconfig" afterPath="$PROJECT_DIR$/mobile/.watchmanconfig" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/__tests__/index.android.js" afterPath="$PROJECT_DIR$/mobile/__tests__/index.android.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/__tests__/index.ios.js" afterPath="$PROJECT_DIR$/mobile/__tests__/index.ios.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/app/BUCK" afterPath="$PROJECT_DIR$/mobile/android/app/BUCK" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/app/build.gradle" afterPath="$PROJECT_DIR$/mobile/android/app/build.gradle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/mobile/android/app/proguard-rules.pro" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/mobile/android/app/src/main/AndroidManifest.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/app/src/main/java/com/universalappmobile/MainActivity.java" afterPath="$PROJECT_DIR$/mobile/android/app/src/main/java/com/universalappmobile/MainActivity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/app/src/main/java/com/universalappmobile/MainApplication.java" afterPath="$PROJECT_DIR$/mobile/android/app/src/main/java/com/universalappmobile/MainApplication.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/mobile/android/app/src/main/res/values/strings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/mobile/android/app/src/main/res/values/styles.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/build.gradle" afterPath="$PROJECT_DIR$/mobile/android/build.gradle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/gradle.properties" afterPath="$PROJECT_DIR$/mobile/android/gradle.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/mobile/android/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/mobile/android/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/gradlew" afterPath="$PROJECT_DIR$/mobile/android/gradlew" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/gradlew.bat" afterPath="$PROJECT_DIR$/mobile/android/gradlew.bat" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/keystores/BUCK" afterPath="$PROJECT_DIR$/mobile/android/keystores/BUCK" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/keystores/debug.keystore.properties" afterPath="$PROJECT_DIR$/mobile/android/keystores/debug.keystore.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/android/settings.gradle" afterPath="$PROJECT_DIR$/mobile/android/settings.gradle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/index.android.js" afterPath="$PROJECT_DIR$/mobile/index.android.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/index.ios.js" afterPath="$PROJECT_DIR$/mobile/index.ios.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/ios/UniversalAppMobile-tvOS/Info.plist" afterPath="$PROJECT_DIR$/mobile/ios/UniversalAppMobile-tvOS/Info.plist" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/ios/UniversalAppMobile-tvOSTests/Info.plist" afterPath="$PROJECT_DIR$/mobile/ios/UniversalAppMobile-tvOSTests/Info.plist" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/ios/UniversalAppMobile.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/mobile/ios/UniversalAppMobile.xcodeproj/project.pbxproj" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/ios/UniversalAppMobile.xcodeproj/xcshareddata/xcschemes/UniversalAppMobile-tvOS.xcscheme" afterPath="$PROJECT_DIR$/mobile/ios/UniversalAppMobile.xcodeproj/xcshareddata/xcschemes/UniversalAppMobile-tvOS.xcscheme" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/ios/UniversalAppMobile.xcodeproj/xcshareddata/xcschemes/UniversalAppMobile.xcscheme" afterPath="$PROJECT_DIR$/mobile/ios/UniversalAppMobile.xcodeproj/xcshareddata/xcschemes/UniversalAppMobile.xcscheme" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/ios/UniversalAppMobile/AppDelegate.h" afterPath="$PROJECT_DIR$/mobile/ios/UniversalAppMobile/AppDelegate.h" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/ios/UniversalAppMobile/AppDelegate.m" afterPath="$PROJECT_DIR$/mobile/ios/UniversalAppMobile/AppDelegate.m" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/ios/UniversalAppMobile/Base.lproj/LaunchScreen.xib" afterPath="$PROJECT_DIR$/mobile/ios/UniversalAppMobile/Base.lproj/LaunchScreen.xib" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/ios/UniversalAppMobile/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/mobile/ios/UniversalAppMobile/Images.xcassets/AppIcon.appiconset/Contents.json" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/ios/UniversalAppMobile/Info.plist" afterPath="$PROJECT_DIR$/mobile/ios/UniversalAppMobile/Info.plist" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/ios/UniversalAppMobile/main.m" afterPath="$PROJECT_DIR$/mobile/ios/UniversalAppMobile/main.m" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/ios/UniversalAppMobileTests/Info.plist" afterPath="$PROJECT_DIR$/mobile/ios/UniversalAppMobileTests/Info.plist" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/ios/UniversalAppMobileTests/UniversalAppMobileTests.m" afterPath="$PROJECT_DIR$/mobile/ios/UniversalAppMobileTests/UniversalAppMobileTests.m" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/mobile/UniversalAppMobile/package.json" afterPath="$PROJECT_DIR$/mobile/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/README.md" afterPath="$PROJECT_DIR$/web/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/config/default.json" afterPath="$PROJECT_DIR$/web/config/default.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/package.json" afterPath="$PROJECT_DIR$/web/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/bundle.js" afterPath="$PROJECT_DIR$/web/public/bundle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/public/index.html" afterPath="$PROJECT_DIR$/web/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/src/client/index.js" afterPath="$PROJECT_DIR$/web/src/client/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/src/server/app.js" afterPath="$PROJECT_DIR$/web/src/server/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/src/server/index.js" afterPath="$PROJECT_DIR$/web/src/server/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/webpack.config.js" afterPath="$PROJECT_DIR$/web/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -78,21 +19,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -174,78 +101,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="universal-app-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="universal-app-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="universal-app-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="universal-app-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="universal-app-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="universal-app-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="universal-app-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="universal-app-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="universal-app-boilerplate" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -392,18 +247,18 @@
       <workItem from="1489654699015" duration="13000" />
       <workItem from="1490174057743" duration="11789000" />
       <workItem from="1490242710015" duration="3997000" />
-      <workItem from="1490246880636" duration="5186000" />
+      <workItem from="1490246880636" duration="5715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26118000" />
+    <option name="totallyTimeSpent" value="26647000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1450" y="91" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31490257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31490257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -805,9 +660,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

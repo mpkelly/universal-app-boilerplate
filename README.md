@@ -11,13 +11,15 @@
 1. Start package server by executing *start.sh* in web folder
 2. Run *react-native run-android*
 
-# Running server
+# Building client
 
-1. Run *npm start* in server folder
-
-# Running clinet
 1. Add css web fonts and icons to public/index.html 
 2. Run *webpack -w* in web folder
+
+# Running server
+
+1. Run *npm start* in server folder.
+2. Check https://localhost:8081 in your browser
 
 ## SSL Security
  
